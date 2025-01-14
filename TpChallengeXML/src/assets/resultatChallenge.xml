@@ -1,0 +1,160 @@
+<challenge>
+    <course>
+        <intitule>Trail du mene bre - 2024</intitule>
+        <distance>20</distance>
+		<datecourse>17/07/2024</datecourse>
+		<lieu>Louargat</lieu>
+		<challenge>Oui</challenge>
+        <coureur>
+            <place>1</place>
+            <nom>THOMAS</nom>
+            <prenom>Yves</prenom>
+            <temps>01:18:22</temps>
+        </coureur>
+        <coureur>
+            <place>2</place>
+            <nom>LE QUERE</nom>
+            <prenom>Gerard</prenom>
+            <temps>01:20:00</temps>
+        </coureur>
+        <coureur>
+            <place>3</place>
+            <nom>GARRAULT</nom>
+            <prenom>Yoan</prenom>
+            <temps>01:22:29</temps>
+        </coureur>
+        <coureur>
+            <place>4</place>
+            <nom>LE GUILLO</nom>
+            <prenom>Cedric</prenom>
+            <temps>01:22:30</temps>
+        </coureur>
+        <coureur>
+            <place>5</place>
+            <nom>LE CARDUNER</nom>
+            <prenom>Alain</prenom>
+            <temps>01:22:49</temps>
+        </coureur>
+        <coureur>
+            <place>6</place>
+            <nom>KERLOUET</nom>
+            <prenom>Didier</prenom>
+            <temps>01:24:05</temps>
+        </coureur>
+        <coureur>
+            <place>7</place>
+            <nom>ANDRE</nom>
+            <prenom>Laurent</prenom>
+            <temps>01:28:51</temps>
+        </coureur>
+        <coureur>
+            <place>8</place>
+            <nom>ANDRE</nom>
+            <prenom>Stephane</prenom>
+            <temps>01:29:17</temps>
+        </coureur>
+        <coureur>
+            <place>9</place>
+            <nom>RIVOALLAN</nom>
+            <prenom>David</prenom>
+            <temps>01:31:14</temps>
+        </coureur>
+        <coureur>
+            <place>10</place>
+            <nom>MERDY</nom>
+            <prenom>Yann</prenom>
+            <temps>01:35:02</temps>
+        </coureur>
+        <coureur>
+            <place>11</place>
+            <nom>LOZAHIC</nom>
+            <prenom>Yvon</prenom>
+            <temps>01:35:04</temps>
+        </coureur>
+        <coureur>
+            <place>12</place>
+            <nom>CAMELI</nom>
+            <prenom>Stephane</prenom>
+            <temps>01:39:07</temps>
+        </coureur>
+    </course>
+    <course>
+        <intitule>Loco du Trieux - 2024</intitule>
+        <distance>15</distance>
+		<datecourse>29/04/2024</datecourse>
+		<lieu>Guingamp</lieu>
+		<challenge>Oui</challenge>
+        <coureur>
+            <place>1</place>
+            <nom>LE CAER</nom>
+            <prenom>Yves</prenom>
+            <temps>01:02:02</temps>
+        </coureur>
+        <coureur>
+            <place>2</place>
+            <nom>LE VELLY</nom>
+            <prenom>Fabrice</prenom>
+            <temps>01:02:03</temps>
+        </coureur>
+        <coureur>
+            <place>3</place>
+            <nom>LE MERRER</nom>
+            <prenom>Daniel</prenom>
+            <temps>01:02:04</temps>
+        </coureur>
+        <coureur>
+            <place>4</place>
+            <nom>LE CARDINAL</nom>
+            <prenom>Jean-Francois</prenom>
+            <temps>01:02:12</temps>
+        </coureur>
+        <coureur>
+            <place>5</place>
+            <nom>CALVEZ</nom>
+            <prenom>Benoit</prenom>
+            <temps>01:02:42</temps>
+        </coureur>
+        <coureur>
+            <place>6</place>
+            <nom>LE MEUR</nom>
+            <prenom>Xavier</prenom>
+            <temps>01:04:43</temps>
+        </coureur>
+        <coureur>
+            <place>7</place>
+            <nom>LE QUERE</nom>
+            <prenom>Gerard</prenom>
+            <temps>01:05:40</temps>
+        </coureur>
+        <coureur>
+            <place>8</place>
+            <nom>LOYER</nom>
+            <prenom>Ronan</prenom>
+            <temps>01:06:22</temps>
+        </coureur>
+        <coureur>
+            <place>9</place>
+            <nom>BOULBENNEC</nom>
+            <prenom>Francois</prenom>
+            <temps>01:08:43</temps>
+        </coureur>
+        <coureur>
+            <place>10</place>
+            <nom>GARRAULT</nom>
+            <prenom>Yoan</prenom>
+            <temps>01:08:57</temps>
+        </coureur>
+        <coureur>
+            <place>11</place>
+            <nom>LE CARDUNER</nom>
+            <prenom>Alain</prenom>
+            <temps>01:09:48</temps>
+        </coureur>
+        <coureur>
+            <place>12</place>
+            <nom>LE GUILLO</nom>
+            <prenom>Cedric</prenom>
+            <temps>01:09:49</temps>
+        </coureur>
+    </course>
+</challenge>
